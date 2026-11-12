@@ -1,7 +1,7 @@
 
 name: Build VSBot IPA
 
-on:
+"on":
   workflow_dispatch:
 
 jobs:
